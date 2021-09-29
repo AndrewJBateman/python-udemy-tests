@@ -24,6 +24,8 @@
 ## :books: General info
 
 * [Udemy: Jose Portilla: 2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) is a 22 hour course
+* [Lambda expressions](https://realpython.com/python-lambda/) used
+* Dir `Section10-Pylint` contains a very simple program with test file
 
 ## :camera: Screenshots
 
@@ -39,7 +41,7 @@ N/A
 ## :floppy_disk: Setup
 
 * Ref. tutorial. for installation of software
-* Requires [installation of Anaconda - Windows in my case](https://docs.anaconda.com/anaconda/install/windows/) - needs a lot of disk space
+* Requires [installation of Anaconda - Windows](https://docs.anaconda.com/anaconda/install/windows/) in my case - needs a lot of disk space
 
 ## :computer: Code Examples
 
