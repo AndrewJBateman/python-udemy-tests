@@ -26,6 +26,8 @@
 * [Udemy: Jose Portilla: 2021 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) is a 22 hour course
 * [Lambda expressions](https://realpython.com/python-lambda/) used
 * Dir `Section10-Pylint` contains a very simple program with test file
+* [shutil](https://docs.python.org/3/library/shutil.html) high-level operations on files and collections of files, e.g. 'shutil.move(src, dst, copy_function=copy2)'
+* [Numpy library](https://numpy.org/) scientific computing with Python
 
 ## :camera: Screenshots
 
@@ -57,7 +59,7 @@ N/A
 
 ## :clipboard: Status & To-do list
 
-* Status: In work
+* Status: In work. Course 80% complete.
 * To-do: Finish course
 
 ## :clap: Inspiration
