@@ -28,6 +28,8 @@
 * Dir `Section10-Pylint` contains a very simple program with test file
 * [shutil](https://docs.python.org/3/library/shutil.html) high-level operations on files and collections of files, e.g. 'shutil.move(src, dst, copy_function=copy2)'
 * [Numpy library](https://numpy.org/) scientific computing with Python
+* [Python timeit built-in module](https://docs.python.org/3/library/timeit.html) to measure execution time of small code snippets
+* [jmportilla/Complete-Python-Bootcamp project solutions](https://github.com/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Projects-Solutions/Solution%20Links.md)
 
 ## :camera: Screenshots
 
